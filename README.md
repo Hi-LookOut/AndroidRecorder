@@ -1,6 +1,6 @@
 # AndroidRecorder
 
-### 结合博客：[Android 音视频开发(七)： 音视频录制流程总结](http://www.cnblogs.com/renhui/p/7520690.html) 生成Demo：
+### Android 硬编解码
 
 #### 1.1 需求说明
 我们需要做的事情就是：串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出。
